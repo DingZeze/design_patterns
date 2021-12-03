@@ -1,0 +1,5 @@
+C:\GitHub\design_patterns\EmployeePortal\Logger\bin\Debug\Logger.dll
+C:\GitHub\design_patterns\EmployeePortal\Logger\bin\Debug\Logger.pdb
+C:\GitHub\design_patterns\EmployeePortal\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+C:\GitHub\design_patterns\EmployeePortal\Logger\obj\Debug\Logger.dll
+C:\GitHub\design_patterns\EmployeePortal\Logger\obj\Debug\Logger.pdb
